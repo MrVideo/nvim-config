@@ -1,6 +1,10 @@
 return {
 	{
 		'm4xshen/autoclose.nvim',
-		config = true
+		config = {
+			options = {
+				disabled_filetypes = { "text", "markdown" },
+			}
+		}
 	}
 }
