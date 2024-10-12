@@ -40,4 +40,4 @@ vim.keymap.set("n", "n", "nzz", { silent = true })
 vim.keymap.set("n", "N", "Nzz", { silent = true })
 
 -- Column limit line
-vim.opt.colorcolumn = "80"
+-- vim.opt.colorcolumn = "80"
