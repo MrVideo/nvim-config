@@ -10,12 +10,11 @@ return {
 		suggestion = {
 			auto_trigger = true,
 			keymap = {
-				accept = "<C-Enter>"
+				accept = "<M-q>"
 			}
 		},
 		filetypes = {
-			help = false,
-			markdown = false
+			help = false
 		},
 	}
 }
