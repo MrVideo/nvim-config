@@ -10,7 +10,7 @@ return {
 		suggestion = {
 			auto_trigger = true,
 			keymap = {
-				accept = "<M-q>"
+				accept = "<C-Enter>"
 			}
 		},
 		filetypes = {
